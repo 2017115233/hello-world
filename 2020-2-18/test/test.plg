@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: test - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPCEA4.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/test.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"D:\上课\C语言\C语言20200210网络直播\04.函数\3课堂代码\test\main.c"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPCEA4.tmp" 
+<h3>Output Window</h3>
+Compiling...
+main.c
+d:\上课\c语言\c语言20200210网络直播\04.函数\3课堂代码\test\main.c(8) : error C2065: 'b' : undeclared identifier
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+main.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
